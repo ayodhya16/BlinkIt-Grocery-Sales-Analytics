@@ -58,3 +58,5 @@ synthetic_df.write.mode("overwrite").parquet("data/synthetic/BlinkIt_Grocery_Dat
 
 # Stop the Spark session
 spark.stop()
+
+# End of script
