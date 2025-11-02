@@ -36,7 +36,7 @@ Let’s Set It Up! 🚀
 Follow these steps to get everything running. It might look like a lot, but I’ll walk you through it!
 
 Clone the Project:First, grab the code from GitHub:
-git clone [https://github.com/ayodhya16/BlinkIt-Grocery-Sales-Analytics]
+git clone https://github.com/ayodhya16/BlinkIt-Grocery-Sales-Analytics
 cd BlinkIt-Grocery-Sales-Analytics
 
 
@@ -72,13 +72,13 @@ Set Up Winutils (Windows Only):
 
 Since I’m on Windows, Spark needs winutils.exe to work with Hadoop.
 Download winutils.exe for Hadoop 3 (you can find it on GitHub or other sources—just make sure it’s legit).
-Place it in C:\Users\Arif Rasul Khan\Downloads\hadoop\bin.
-Set the HADOOP_HOME environment variable: HADOOP_HOME=C:\Users\Arif Rasul Khan\Downloads\hadoop.
-Create a temporary directory for Hadoop:mkdir "C:\Users\Arif Rasul Khan\tmp\hive"
-"C:\Users\Arif Rasul Khan\Downloads\hadoop\bin\winutils.exe" chmod -R 777 "C:\Users\Arif Rasul Khan\tmp\hive"
+Place it in C:\Users\Mahesh Babu\Downloads\hadoop\bin.
+Set the HADOOP_HOME environment variable: HADOOP_HOME=C:\Users\Mahesh Babu\Downloads\hadoop.
+Create a temporary directory for Hadoop:mkdir "C:\Users\Mahesh Babu\tmp\hive"
+"C:\Users\Mahesh Babu\Downloads\hadoop\bin\winutils.exe" chmod -R 777 "C:\Users\Mahesh Babu\tmp\hive"
 
 
-Set the HADOOP_TMP_DIR environment variable: HADOOP_TMP_DIR=C:\Users\Arif Rasul Khan\tmp\hive.
+Set the HADOOP_TMP_DIR environment variable: HADOOP_TMP_DIR=C:\Users\Mahesh Babu\tmp\hive.
 
 
 Get the Dataset and Power BI Dashboard:
