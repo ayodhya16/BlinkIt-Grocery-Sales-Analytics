@@ -36,7 +36,7 @@ Let’s Set It Up! 🚀
 Follow these steps to get everything running. It might look like a lot, but I’ll walk you through it!
 
 Clone the Project:First, grab the code from GitHub:
-git clone https://github.com/arif05khan/BlinkIt-Grocery-Sales-Analytics.git
+git clone [https://github.com/ayodhya16/BlinkIt-Grocery-Sales-Analytics]
 cd BlinkIt-Grocery-Sales-Analytics
 
 
